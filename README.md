@@ -1,4 +1,4 @@
-# SeqSwift LiteSpeed — 0.016s Full WGS on Chromebook
+markdown# SeqSwift LiteSpeed — 0.016s Full WGS on Chromebook
 
 **Patent Pending 63/187,188 (Filed Sept 7, 2025)**
 
@@ -7,14 +7,14 @@
 - 489 MB RAM peak
 - No cloud • No GPU • Offline • Air-gapped
 
-![Step 1: Build ref in 10s](boom1.png)
-![Step 2: Run in 0.074s → 0.016s](boom2.png)
-![Step 3: Package & send encrypted](boom3.png)
+![Step 1: Build ref in 10s](Boom1%202025-11-17%205.59.25%20PM.png)
+![Step 2: Run in 0.074s → 0.016s](Boom2%202025-11-17%205.59.37%20PM.png)
+![Step 3: Package & send encrypted](Boom3%202025-11-17%205.59.45%20PM.png)
 
 ### Free Pilot (secure GPG-encrypted demo)
 https://seqswift.com
 
-First 100 pilots free forever with testimonial.
+First 10 pilots free for 1 year. 3 additional lifetime winners will be chosen randomly when you give feedback
 
 Clinical / commercial use: license@seqswift.io
 
