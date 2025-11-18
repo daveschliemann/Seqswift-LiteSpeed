@@ -16,6 +16,11 @@ https://seqswift.com
 
 First 10 pilots free for 1 year. 3 additional lifetime winners will be chosen randomly when you give feedback
 
-Clinical / commercial use: license@seqswift.io
+Clinical / commercial use: license@seqswift.com
 
-Atlanta 30318 • David Schliemann
+Open-Access encrypted pilots (free for early registrants) → https://seqswift.com
+GitHub → https://github.com/daveschliemann/SeqSwift-LiteSpeed
+Pro license → license@seqswift.com
+
+David Schliemann | SeqSwift NGS - subsecond point of care diagnostics
+404.341.8325 | david@seqswift.com
