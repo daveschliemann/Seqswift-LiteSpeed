@@ -23,4 +23,4 @@ GitHub → https://github.com/daveschliemann/SeqSwift-LiteSpeed
 Pro license → license@seqswift.com
 
 David Schliemann | SeqSwift NGS - subsecond point of care diagnostics
-404.341.8325 | david@seqswift.com
+| david@seqswift.com
