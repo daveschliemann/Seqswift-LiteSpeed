@@ -8,7 +8,7 @@ Full pipeline (build refs → run → encrypt) in one terminal → <9 s wall tim
 
 ![The execution](images/1HPV_Load_2Build_3Run.png)
 
-**Verifiable public demo package (5.8 KB – no password needed):**  
+**Verifiable public demo package (5.8 KB – password needed):**  
 https://github.com/daveschliemann/SeqSwift-HPV16-18-BOOM/releases/download/v1.1/SeqSwift_HPV16_18_BOOM_Nov18.zip
 
 **Full encrypted pilot + source + processor** → password via Signal/DM only
