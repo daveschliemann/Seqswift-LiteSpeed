@@ -27,10 +27,10 @@ One pipeline — microbes to humans — on Chromebook
 **Free Pilots Open Now**  
 - First 100 labs → free with testimonial  
 - 3 lifetime licenses → random draw this week for anyone who gives feedback  
-- Clinical/commercial → license@seqswift.io
+- Clinical/commercial → license@seqswift.com
 
 David Schliemann  
 Atlanta ground zero  
-david@seqswift.io
+david@seqswift.com
 
 
