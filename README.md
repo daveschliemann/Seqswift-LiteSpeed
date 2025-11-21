@@ -9,11 +9,11 @@ Full pipeline (build refs → run → encrypt) in one terminal → <9 s wall tim
 ![The execution](images/1HPV_Load_2Build_3Run.png)
 
 **Verifiable public demo package (5.8 KB – password needed):**  
-https://github.com/daveschliemann/SeqSwift-HPV16-18-BOOM/releases/download/v1.1/SeqSwift_HPV16_18_BOOM_Nov18.zip
 
-**Full encrypted pilot + source + processor** → password via Signal/DM only
+**Full encrypted pilot + source + processor** → password via Signal only.email: license@seqswift.com
+David Schliemann
 
-This is the extinction-level event for every 4–48 hour HPV assay on the planet.
+This is the extinction-level event for every 4–48 hour HPV assay and across the broader goal of democratizing precision medicine for institutions, universities and labs.
 
 ---
 
